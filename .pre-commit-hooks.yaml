@@ -1,0 +1,5 @@
+-   id: lint-clj
+    name: lint-clj
+    description: Run linters and static code analysis tools.
+    entry: clj.sh
+    language: script
